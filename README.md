@@ -1,4 +1,10 @@
-# 📸 Screenshot Manager
+# 📸 Screenshot Manager (GUI)
+
+![Screenshot](https://i.ibb.co/VWfxj5vd/01.png)
+
+# 📸 Screenshot Manager (CLI)
+
+![Screenshot](https://i.ibb.co/LhcFXX8s/02.png)
 
 **Screenshot Manager** est une application complète qui vous permet de capturer des captures d'écran de sites web à partir d'une liste d'URLs, avec une interface graphique élégante ou une interface en ligne de commande.
 
