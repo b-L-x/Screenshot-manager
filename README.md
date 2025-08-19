@@ -6,39 +6,39 @@
 
 ![Screenshot](https://i.ibb.co/LhcFXX8s/02.png)
 
-**Screenshot Manager** est une application complète qui vous permet de capturer des captures d'écran de sites web à partir d'une liste d'URLs, avec une interface graphique élégante ou une interface en ligne de commande.
+**Screenshot Manager** is a complete application that allows you to capture screenshots of websites from a list of URLs, either through an elegant graphical interface or a command-line interface.
 
-> **💡 Note:** Cette application extrait automatiquement les URLs d'un fichier texte et capture des captures d'écran de chaque site web.
+> **💡 Note:** This application automatically extracts URLs from a text file and takes screenshots of each website.
 
-## ✨ Fonctionnalités
+## ✨ Features
 
 <div style="background-color: #f6f8fa; border-radius: 6px; padding: 16px;">
 
-*   📸 **Capture automatique** des sites web à partir d'une liste d'URLs
-*   ⚡ **Multithreading** pour des captures rapides et efficaces
-*   🎨 **Interface graphique** moderne et intuitive (PyQt6)
-*   ⌨️ **Interface en ligne de commande** pour l'automatisation
-*   📊 **Barre de progression** en temps réel avec affichage des résultats
-*   🔍 **Recherche** par nom de domaine dans l'interface graphique
-*   🔄 **Navigation** entre les captures avec boutons Précédent/Suivant
-*   🔍 **Zoom** avant/arrière sur les images
-*   🗑️ **Suppression** des captures individuelles
-*   📤 **Export** en ZIP ou PDF
-*   📚 **Historique** des scans avec statistiques
-*   ⚙️ **Configuration** sauvegardée automatiquement
-*   🖥️ **Mode plein écran** pour la visualisation
-*   🔗 **Liens cliquables** vers les sites capturés
+*   📸 **Automatic capture** of websites from a list of URLs  
+*   ⚡ **Multithreading** for fast and efficient captures  
+*   🎨 **Modern and intuitive GUI** (PyQt6)  
+*   ⌨️ **Command-line interface** for automation  
+*   📊 **Real-time progress bar** with result display  
+*   🔍 **Search** by domain name in the graphical interface  
+*   🔄 **Navigation** between captures using Previous/Next buttons  
+*   🔍 **Zoom in/out** on images  
+*   🗑️ **Delete** individual screenshots  
+*   📤 **Export** to ZIP or PDF  
+*   📚 **Scan history** with statistics  
+*   ⚙️ **Configuration** automatically saved  
+*   🖥️ **Full-screen mode** for viewing  
+*   🔗 **Clickable links** to captured websites  
 
 </div>
 
 ## 📥 Installation
 
-### Prérequis
+### Prerequisites
 
-*   Python 3.8 ou supérieur
-*   Pip (gestionnaire de paquets Python)
+*   Python 3.8 or higher  
+*   Pip (Python package manager)
 
-### Installation des dépendances
+### Install Dependencies
 
 ```bash
 pip install PyQt6 playwright reportlab
